@@ -1,0 +1,10 @@
+numpy
+matplotlib
+librosa
+Pillow
+tensorflow 
+moviepy
+imageio
+scipy
+git+https://github.com/tensorflow/docs
+opencv-python
